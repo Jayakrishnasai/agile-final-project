@@ -1,0 +1,10 @@
+## User Story
+As a product manager  
+I need to delete a product  
+So that obsolete products are removed  
+
+## Acceptance Criteria
+
+Given a product exists  
+When I submit a delete request  
+Then the product should be removed from the catalog  
