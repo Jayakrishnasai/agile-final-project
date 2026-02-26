@@ -1,0 +1,10 @@
+## User Story
+As a DevOps engineer  
+I need to host the application in the cloud  
+So that it is accessible and scalable  
+
+## Acceptance Criteria
+
+Given the application is ready  
+When it is deployed to the cloud platform  
+Then users should be able to access it via a public URL  
