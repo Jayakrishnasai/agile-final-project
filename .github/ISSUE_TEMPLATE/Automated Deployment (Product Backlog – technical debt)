@@ -1,0 +1,10 @@
+## User Story
+As a DevOps engineer  
+I need automated deployment  
+So that new changes are released reliably  
+
+## Acceptance Criteria
+
+Given code is pushed to the main branch  
+When the CI/CD pipeline runs  
+Then the application should be automatically deployed  
