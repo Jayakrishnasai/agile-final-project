@@ -1,0 +1,10 @@
+## User Story
+As a customer  
+I need to list all products  
+So that I can browse the catalog  
+
+## Acceptance Criteria
+
+Given products exist in the catalog  
+When I request the product list  
+Then the system should return all products  
