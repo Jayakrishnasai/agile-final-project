@@ -1,0 +1,10 @@
+## User Story
+As a customer  
+I need to like a product  
+So that I can show appreciation  
+
+## Acceptance Criteria
+
+Given a product exists  
+When I click the like option  
+Then the product like count should increase by one  
