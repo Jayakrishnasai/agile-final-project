@@ -1,0 +1,14 @@
+## User Story
+As a customer  
+I need to retrieve a product  
+So that I can view product details  
+
+## Acceptance Criteria
+
+Given a product exists in the catalog  
+When I request the product by ID  
+Then the system should return the product details  
+
+Given the product does not exist  
+When I request the product  
+Then the system should return a not found message  
